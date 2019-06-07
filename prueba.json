@@ -3,6 +3,8 @@
   "content": {
     "messages": [
       {
+        "type": "text",
+        "text": "¿Estás son tus emisoras?",
         "buttons": [
           {
             "type": "url",
