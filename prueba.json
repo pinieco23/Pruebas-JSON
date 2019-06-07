@@ -4,12 +4,12 @@
     "messages": [
       {
         "type": "text",
-        "text": "GENERATE1",
+        "text": "GENJER",
         "buttons": [
           {
-            "type": "url",
-            "caption": "External link",
-            "url": "https://manychat.com"
+            "type": "dynamic_block_callback",
+            "caption": "Dynamic content",
+            "url": "https://manychat.com/dynamic",
             "method": "post",
             "headers": {
               "x-header": "text-1559837813935"
