@@ -4,12 +4,19 @@
     "messages": [
       {
         "type": "text",
-        "text": "simple text with button",
+        "text": "GENERATE1",
         "buttons": [
           {
             "type": "url",
             "caption": "External link",
             "url": "https://manychat.com"
+            "method": "post",
+            "headers": {
+              "x-header": "text-1559837813935"
+            },
+            "payload": {
+              "key": "text-1559837813935"
+            }
           }
         ]
       }
