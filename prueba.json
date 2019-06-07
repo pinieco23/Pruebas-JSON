@@ -6,6 +6,11 @@
         "action": "set_field_value",
         "field_name": "Emi1",
         "value": "Emisora 1 REQUEST"
+      },
+      {
+        "action": "set_field_value",
+        "field_name": "Emi2",
+        "value": "Emisora 2 REQUEST"
       }
     ],
     [
