@@ -4,7 +4,7 @@
     "messages": [
       {
         "type": "text",
-        "text": "GENJER",
+        "text": "TEST 4",
         "buttons": [
           {
             "type": "dynamic_block_callback",
@@ -12,10 +12,10 @@
             "url": "https://manychat.com/dynamic",
             "method": "post",
             "headers": {
-              "x-header": "text-1559837813935"
+              "x-header": "value"
             },
             "payload": {
-              "key": "text-1559837813935"
+              "key": "value"
             }
           }
         ]
